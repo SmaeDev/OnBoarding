@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OnBoarding</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Dear!</string>
+    <string name="slide_1_desc">Want to make your taste buds travel? \n Come and taste our specialties!</string>
+
+    <string name="slide_2_title">Sweet Eggs</string>
+    <string name="slide_2_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_3_title">Delicious burgers</string>
+    <string name="slide_3_desc">Order burgers for your family and friends!</string>
+
+    <string name="slide_4_title">Great Discounts</string>
+    <string name="slide_4_desc">Best discounts on every order!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="welcome">Welcome my customer!</string>
+</resources>
